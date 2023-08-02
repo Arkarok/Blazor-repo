@@ -1,0 +1,47 @@
+﻿    <input type="checkbox" @bind="MostrarBotones"/>
+    <span>
+        Mostrar botones
+    </span>
+
+    <ListadoGenerico Listado="Peliculas">
+        <HayRegistros Context="pelicula">
+           <PeliculaIndividual pelicula="pelicula" EliminarPelicula="EliminarPelicula" MostrarBotones="MostrarBotones"/>
+        </HayRegistros>
+    </ListadoGenerico>
+
+
+@code {
+
+    [Parameter]
+    [EditorRequired]
+    public List<Pelicula>? Peliculas { get; set; }
+
+    protected override void OnInitialized()
+    {
+        Console.WriteLine($"OnInitialized - cantidad peliculas {Peliculas!.Count}");
+    }
+
+    protected override void OnParametersSet()
+    {
+        Console.WriteLine($"OnParametersSet - cantidad peliculas {Peliculas!.Count}");
+    }
+
+    protected override void OnAfterRender(bool primeraRenderizacion)
+    {
+        Console.WriteLine("OnAfterRender: Primera vez: " + primeraRenderizacion);
+    }
+
+    protected override bool ShouldRender()
+    {
+        Console.WriteLine("ShouldRender");
+        return true;
+    }
+
+    bool MostrarBotones = false;
+
+    private void EliminarPelicula(Pelicula pelicula)
+    {
+        Console.WriteLine("Eliminando una pelicula");
+        Peliculas!.Remove(pelicula);
+    }
+}

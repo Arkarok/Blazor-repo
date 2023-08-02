@@ -1,0 +1,52 @@
+﻿@page "/"
+
+<div>
+    <h3>Pelicula</h3>
+    <ListadoPeliculas Peliculas="Peliculas"/>
+</div>
+
+<button @onclick="AgregarPelicula">Agregar Pelicula</button>
+
+@*<div>
+    <h2>Crear nueva pelicula</h2>
+    <EjemploTextbox placeholder="Nombre Pelicula" disabled="true"/>
+</div>*@
+
+@*<BindAfterDemo/>*@
+
+@code{
+
+    public List<Pelicula>? Peliculas { get; set; }
+
+    protected override void OnInitialized()
+    {
+        Peliculas = Obtenerpeliculas();
+    }
+
+    List<Pelicula> Obtenerpeliculas()
+    {
+        return new List<Pelicula>()
+        {
+            new Pelicula
+            {
+                Titulo = "Wakanda Forever",
+                FechaLanzamiento = new DateTime(2022, 11, 11)
+            },
+            new Pelicula
+            {
+                Titulo = "Mohana",
+                FechaLanzamiento = new DateTime(2016, 11, 23)
+            },
+            new Pelicula
+            {
+                Titulo = "Inception",
+                FechaLanzamiento = new DateTime(2023, 07, 31)
+            }
+        };
+    }
+
+    private void AgregarPelicula()
+    {
+        Peliculas!.Add(new Pelicula { Titulo = "nuevo", FechaLanzamiento = DateTime.Today });
+    }
+}
