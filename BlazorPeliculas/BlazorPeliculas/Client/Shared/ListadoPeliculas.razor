@@ -1,4 +1,6 @@
-﻿    <input type="checkbox" @bind="MostrarBotones"/>
+﻿@inject IJSRuntime  js   
+
+<input type="checkbox" @bind="MostrarBotones"/>
     <span>
         Mostrar botones
     </span>
@@ -15,6 +17,14 @@
     [Parameter]
     [EditorRequired]
     public List<Pelicula>? Peliculas { get; set; }
+
+    public void LimpiarPeliculas()
+    {
+        if(Peliculas is not null)
+        {
+            Peliculas.Clear();
+        }
+    }
 
     protected override void OnInitialized()
     {
@@ -39,9 +49,15 @@
 
     bool MostrarBotones = false;
 
-    private void EliminarPelicula(Pelicula pelicula)
+    private async Task EliminarPelicula(Pelicula pelicula)
     {
-        Console.WriteLine("Eliminando una pelicula");
-        Peliculas!.Remove(pelicula);
+        var confirmado = await js.Confirm($"¿Estas seguro de que deseas eliminar la pelicula {pelicula.Titulo}?");
+
+        if (confirmado)
+        {
+            Console.WriteLine("Eliminando una pelicula");
+            Peliculas!.Remove(pelicula);
+        }
+
     }
 }

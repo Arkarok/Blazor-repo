@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6sx7vayXBgdujz+bBcHxi5vmLidVfZbLJZ8s0I+67T+e5txabCdyq8cBGAq+nmbCub+c2WHI2BvrV4gufb9nhg==",
+  "dgSpecHash": "cQYSMZt4g6Tbl44Sd5X0SPFTYouQ2ac9pA/pvPv5nIyCBHFZmwCXPVzF2bdj4ov9ZdYRMttLCVzDbE+lmdPrkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henry\\source\\repos\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
+  "projectFilePath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henry\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "C:\\Users\\henry\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
