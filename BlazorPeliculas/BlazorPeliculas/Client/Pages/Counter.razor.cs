@@ -1,4 +1,5 @@
 ﻿using BlazorPeliculas.Client.Helpers;
+using MathNet.Numerics.Statistics;
 using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
 
@@ -6,41 +7,18 @@ namespace BlazorPeliculas.Client.Pages
 {
     public partial class Counter
     {
-        [Inject] ServicioSingleton singleton { get; set; } = null!;
-        [Inject] ServicioTransient transient { get; set; } = null!;
-        [Inject] IJSRuntime js { get; set; } = null!;
-        /*[CascadingParameter(Name = "Color")] protected string Color { get; set; } = null!;
-        [CascadingParameter(Name = "Size")] protected string Size { get; set; } = null!;*/
-
-        [CascadingParameter] protected AppState appState { get; set; } = null!;
-
-        IJSObjectReference? modulo;
-
         private int currentCount = 0;
-        private static int currentCountStatic = 0;
+        [Inject] public IJSRuntime js { get; set; } = null!;
 
-        [JSInvokable]
-        public async Task IncrementCount()
+        public async void IncrementCount()
         {
-            modulo = await js.InvokeAsync<IJSObjectReference>("import", "./js/Counter.js");
-            await modulo.InvokeVoidAsync("mostrarAlerta", "Hola mundo");
+            var arreglo = new double[] { 1, 2, 3, 4, 5 };
+            var max = arreglo.Maximum();
+            var min = arreglo.Minimum();
+
+            await js.InvokeVoidAsync("alert", $"El max es {max} y el min es {min}");
 
             currentCount++;
-            singleton.Valor = currentCount;
-            transient.Valor = currentCount;
-            await js.InvokeVoidAsync("pruebaPuntoNetStatic");
-        }
-
-        private async Task IncrementCountJavaScript()
-        {
-            await js.InvokeVoidAsync("pruebaPuntoNetInstancia",
-                DotNetObjectReference.Create(this));
-        }
-
-        [JSInvokable]
-        public static Task<int> ObtenerCurrentCount()
-        {
-            return Task.FromResult(currentCountStatic);
         }
     }
 }

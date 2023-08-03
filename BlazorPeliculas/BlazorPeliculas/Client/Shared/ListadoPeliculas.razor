@@ -1,53 +1,18 @@
 ﻿@inject IJSRuntime  js   
 
-<input type="checkbox" @bind="MostrarBotones"/>
-    <span>
-        Mostrar botones
-    </span>
-
-    <ListadoGenerico Listado="Peliculas">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+        <ListadoGenerico Listado="Peliculas">
         <HayRegistros Context="pelicula">
-           <PeliculaIndividual pelicula="pelicula" EliminarPelicula="EliminarPelicula" MostrarBotones="MostrarBotones"/>
+           <PeliculaIndividual Pelicula="pelicula" EliminarPelicula="EliminarPelicula"/>
         </HayRegistros>
     </ListadoGenerico>
-
+</div>
 
 @code {
 
     [Parameter]
     [EditorRequired]
     public List<Pelicula>? Peliculas { get; set; }
-
-    public void LimpiarPeliculas()
-    {
-        if(Peliculas is not null)
-        {
-            Peliculas.Clear();
-        }
-    }
-
-    protected override void OnInitialized()
-    {
-        Console.WriteLine($"OnInitialized - cantidad peliculas {Peliculas!.Count}");
-    }
-
-    protected override void OnParametersSet()
-    {
-        Console.WriteLine($"OnParametersSet - cantidad peliculas {Peliculas!.Count}");
-    }
-
-    protected override void OnAfterRender(bool primeraRenderizacion)
-    {
-        Console.WriteLine("OnAfterRender: Primera vez: " + primeraRenderizacion);
-    }
-
-    protected override bool ShouldRender()
-    {
-        Console.WriteLine("ShouldRender");
-        return true;
-    }
-
-    bool MostrarBotones = false;
 
     private async Task EliminarPelicula(Pelicula pelicula)
     {
