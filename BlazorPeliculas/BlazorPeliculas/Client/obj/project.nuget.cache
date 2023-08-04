@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jh8OWdWLSRk7eMdxagYeXhxtHLmbPjj0snW9d6pjcYZVwpZxUWVt4Hr6lAMyzY2wHVayziTbHewzCS9wFdUDBQ==",
+  "dgSpecHash": "sHYJK3rJu133Bs3pAVZmQ49zlxd1zdpNI/4AsZX4LB1pG5Zp84GQAgrGopjMP3aUWj+zVtorPXXAzWWBfrJJwQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\henry\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\currietechnologies.razor.sweetalert2.5.5.0.nupkg.sha512",
+    "C:\\Users\\henry\\.nuget\\packages\\markdig\\0.32.0\\markdig.0.32.0.nupkg.sha512",
     "C:\\Users\\henry\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
     "C:\\Users\\henry\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "C:\\Users\\henry\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",

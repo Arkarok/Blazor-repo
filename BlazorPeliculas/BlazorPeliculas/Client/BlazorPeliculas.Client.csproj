@@ -14,6 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="CurrieTechnologies.Razor.SweetAlert2" Version="5.5.0" />
+    <PackageReference Include="Markdig" Version="0.32.0" />
     <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.9" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.9" PrivateAssets="all" />
@@ -24,7 +26,7 @@
   </ItemGroup>
 
 	<ItemGroup>
-		<BlazorWebAssemblyLazyLoad Include="MathNet.Numerics.dll"/>
+		<BlazorWebAssemblyLazyLoad Include="MathNet.Numerics.dll" />
 	</ItemGroup>
 
 </Project>

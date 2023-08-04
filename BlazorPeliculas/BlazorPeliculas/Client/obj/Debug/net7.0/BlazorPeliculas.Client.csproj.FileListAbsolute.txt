@@ -1675,3 +1675,11 @@ C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPelicul
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\wwwroot\_framework\MathNet.Numerics.dll.gz
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\MathNet.Numerics.dll
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\build-gz\yP3uHT4P.gz
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\wwwroot\_framework\CurrieTechnologies.Razor.SweetAlert2.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\wwwroot\_framework\CurrieTechnologies.Razor.SweetAlert2.dll.gz
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\build-gz\1SbC1Y+6.gz
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\wwwroot\_framework\Markdig.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\wwwroot\_framework\Markdig.dll.gz
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\Markdig.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\build-gz\wLFXTRvn.gz

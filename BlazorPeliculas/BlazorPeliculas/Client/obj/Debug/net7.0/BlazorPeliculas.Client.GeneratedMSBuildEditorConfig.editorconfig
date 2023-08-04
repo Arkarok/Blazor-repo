@@ -28,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0b3Jlc1xFZGl0YXJBY3Rvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/henry/OneDrive/Documentos/gitRepos/BlazorRepo/Blazor-repo/BlazorPeliculas/BlazorPeliculas/Client/Pages/Actores/FormularioActores.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0b3Jlc1xGb3JtdWxhcmlvQWN0b3Jlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/henry/OneDrive/Documentos/gitRepos/BlazorRepo/Blazor-repo/BlazorPeliculas/BlazorPeliculas/Client/Pages/Actores/IndiceActores.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0b3Jlc1xJbmRpY2VBY3RvcmVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -64,6 +68,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXEVkaXRhclBlbGljdWxhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/henry/OneDrive/Documentos/gitRepos/BlazorRepo/Blazor-repo/BlazorPeliculas/BlazorPeliculas/Client/Pages/Peliculas/FiltroPeliculas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXEZpbHRyb1BlbGljdWxhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/henry/OneDrive/Documentos/gitRepos/BlazorRepo/Blazor-repo/BlazorPeliculas/BlazorPeliculas/Client/Pages/Peliculas/VisualizarPelicula.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVsaWN1bGFzXFZpc3VhbGl6YXJQZWxpY3VsYS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -88,12 +96,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVqZW1wbG9UZXh0Ym94LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/henry/OneDrive/Documentos/gitRepos/BlazorRepo/Blazor-repo/BlazorPeliculas/BlazorPeliculas/Client/Shared/InputImg.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0SW1nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/henry/OneDrive/Documentos/gitRepos/BlazorRepo/Blazor-repo/BlazorPeliculas/BlazorPeliculas/Client/Shared/InputMarkdown.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0TWFya2Rvd24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/henry/OneDrive/Documentos/gitRepos/BlazorRepo/Blazor-repo/BlazorPeliculas/BlazorPeliculas/Client/Shared/ListadoGenerico.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExpc3RhZG9HZW5lcmljby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/henry/OneDrive/Documentos/gitRepos/BlazorRepo/Blazor-repo/BlazorPeliculas/BlazorPeliculas/Client/Shared/ListadoPeliculas.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExpc3RhZG9QZWxpY3VsYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/henry/OneDrive/Documentos/gitRepos/BlazorRepo/Blazor-repo/BlazorPeliculas/BlazorPeliculas/Client/Shared/MostrarMarkdown.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vc3RyYXJNYXJrZG93bi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/henry/OneDrive/Documentos/gitRepos/BlazorRepo/Blazor-repo/BlazorPeliculas/BlazorPeliculas/Client/Shared/PeliculaIndividual.razor]
