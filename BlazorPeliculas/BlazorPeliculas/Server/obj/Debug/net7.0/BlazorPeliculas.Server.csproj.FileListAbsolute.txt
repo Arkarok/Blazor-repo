@@ -111,3 +111,4 @@ C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPelicul
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\MathNet.Numerics.dll
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Markdig.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Blazored.Typeahead.dll

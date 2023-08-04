@@ -1683,3 +1683,7 @@ C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPelicul
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\wwwroot\_framework\Markdig.dll.gz
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\Markdig.dll
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\build-gz\wLFXTRvn.gz
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\wwwroot\_framework\Blazored.Typeahead.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\wwwroot\_framework\Blazored.Typeahead.dll.gz
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\bin\Debug\net7.0\Blazored.Typeahead.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\net7.0\build-gz\Wy1NyC0Q.gz
