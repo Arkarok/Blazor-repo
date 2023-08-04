@@ -13,12 +13,12 @@ namespace BlazorPeliculas.Shared.Entidades
         [Required(ErrorMessage = "El campo {0} es requerido")]
         public string Titulo { get; set; } = null!;
         public string? Resumen { get; set; }
-        public int MyProperty { get; set; }
         public bool EnCartelera { get; set; }
         public string? Trailer { get; set; }
         public DateTime Lanzamiento { get; set; }
         public string? Poster { get; set; }
-        public List<GeneroPelicula> Generos { get; set; } = new List<GeneroPelicula>(); 
+        public List<GeneroPelicula> GenerosPelicula { get; set; } = new List<GeneroPelicula>();
+        public List<PeliculaActor> PeliculasActor { get; set; } = new List<PeliculaActor>();
         public string? TituloCortado
         {
             get
