@@ -22,3 +22,15 @@ C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPelicul
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\refint\BlazorPeliculas.Shared.dll
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.pdb
 C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\ref\BlazorPeliculas.Shared.dll
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.deps.json
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.AssemblyReference.cache
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfoInputs.cache
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.AssemblyInfo.cs
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.csproj.CoreCompileInputs.cache
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\refint\BlazorPeliculas.Shared.dll
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\net7.0\ref\BlazorPeliculas.Shared.dll

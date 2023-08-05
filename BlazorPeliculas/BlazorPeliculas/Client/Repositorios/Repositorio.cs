@@ -1,4 +1,6 @@
 ﻿using BlazorPeliculas.Shared.Entidades;
+using System.Text;
+using System.Text.Json;
 
 namespace BlazorPeliculas.Client.Repositorios
 {
@@ -27,6 +29,21 @@ namespace BlazorPeliculas.Client.Repositorios
                     Poster = "https://th.bing.com/th/id/R.dd9827fbb0199cd20694739d54c346d8?rik=5JsQjhudqNqO9w&pid=ImgRaw&r=0"
                 }
             };
+        }
+
+        private readonly HttpClient _httpClient;
+
+        public Repositorio(HttpClient httpClient)
+        {
+            _httpClient = httpClient;
+        }
+
+        public async Task<HttpResponseWrapper<object>> Post<T>(string url, T enviar)
+        {
+            var enviarJSON = JsonSerializer.Serialize(enviar);
+            var enviarContent = new StringContent(enviarJSON, Encoding.UTF8, "application/json");
+            var responseHttp = await _httpClient.PostAsync(url, enviarContent);
+            return new HttpResponseWrapper<object>(null, !responseHttp.IsSuccessStatusCode, responseHttp);
         }
     }
 }
