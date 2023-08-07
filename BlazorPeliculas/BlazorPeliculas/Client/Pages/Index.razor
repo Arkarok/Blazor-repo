@@ -4,16 +4,24 @@
 <PageTitle>Blazor Peliculas</PageTitle>
 
 <div>
-    <h1>Pelicula</h1>
-    <ListadoPeliculas Peliculas="Peliculas"/>
+    <h1>En Cartelera</h1>
+    <ListadoPeliculas Peliculas="Encartelera" />
+</div>
+
+<div>
+    <h1>Proximos Estrenos</h1>
+    <ListadoPeliculas Peliculas="FuturosEstrenos" />
 </div>
 
 @code{
 
-    public List<Pelicula>? Peliculas { get; set; }
+    public List<Pelicula>? FuturosEstrenos { get; set; }
+    public List<Pelicula>? Encartelera { get; set; }
 
-    protected override void OnInitialized()
+    protected override async Task OnInitializedAsync()
     {
-        Peliculas = repositorio.ObtenerPeliculas();
+        var respuestaHttp = await repositorio.Get<HomePageDTO>("api/peliculas");
+        FuturosEstrenos = respuestaHttp.response!.ProximosEstrenos;
+        Encartelera = respuestaHttp.response!.PeliculasEnCartelera;
     }
 }

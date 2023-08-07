@@ -1,5 +1,21 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\peliculas\133abfa9-1efb-45fc-9957-1a8c6b26b8ba.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>BlazorPeliculas.Server</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BlazorPeliculas.Server</BasePath>
+      <RelativePath>peliculas/133abfa9-1efb-45fc-9957-1a8c6b26b8ba.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\peliculas\133abfa9-1efb-45fc-9957-1a8c6b26b8ba.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\peliculas\1fd3505a-8098-481e-ab20-6fab9662dc31.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>BlazorPeliculas.Server</SourceId>

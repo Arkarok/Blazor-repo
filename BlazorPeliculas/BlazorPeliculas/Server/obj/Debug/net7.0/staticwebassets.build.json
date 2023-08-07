@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5MgtEGz3QNwb3G9e6xVDV7tKfxaDjM4PdT0lo7h3I+w=",
+  "Hash": "6mkf4JfVICsTveaqKP4M5zYolFpKZ85vVgWSa75IEbM=",
   "Source": "BlazorPeliculas.Server",
   "BasePath": "_content/BlazorPeliculas.Server",
   "Mode": "Default",
@@ -8007,6 +8007,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Utilidades.js"
+    },
+    {
+      "Identity": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\133abfa9-1efb-45fc-9957-1a8c6b26b8ba.jpg",
+      "SourceId": "BlazorPeliculas.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\",
+      "BasePath": "_content/BlazorPeliculas.Server",
+      "RelativePath": "peliculas/133abfa9-1efb-45fc-9957-1a8c6b26b8ba.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\133abfa9-1efb-45fc-9957-1a8c6b26b8ba.jpg"
     },
     {
       "Identity": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\1fd3505a-8098-481e-ab20-6fab9662dc31.jpg",

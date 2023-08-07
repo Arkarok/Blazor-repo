@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\133abfa9-1efb-45fc-9957-1a8c6b26b8ba.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\133abfa9-1efb-45fc-9957-1a8c6b26b8ba.jpg"
+    },
+    {
       "Id": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\1fd3505a-8098-481e-ab20-6fab9662dc31.jpg",
       "PackagePath": "staticwebassets\\peliculas\\1fd3505a-8098-481e-ab20-6fab9662dc31.jpg"
     },
