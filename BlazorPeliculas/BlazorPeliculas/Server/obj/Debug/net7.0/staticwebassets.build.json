@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KJttgcEVmdRislyozHhyuAmTxchJrwS5eQjWPl7DROQ=",
+  "Hash": "5MgtEGz3QNwb3G9e6xVDV7tKfxaDjM4PdT0lo7h3I+w=",
   "Source": "BlazorPeliculas.Server",
   "BasePath": "_content/BlazorPeliculas.Server",
   "Mode": "Default",
@@ -24,6 +24,13 @@
       "Source": "BlazorPeliculas.Client",
       "ContentRoot": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Client\\wwwroot\\",
       "BasePath": "/",
+      "Pattern": "**"
+    },
+    {
+      "Name": "BlazorPeliculas.Server\\wwwroot",
+      "Source": "BlazorPeliculas.Server",
+      "ContentRoot": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\",
+      "BasePath": "_content/BlazorPeliculas.Server",
       "Pattern": "**"
     }
   ],
@@ -8000,6 +8007,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Utilidades.js"
+    },
+    {
+      "Identity": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\1fd3505a-8098-481e-ab20-6fab9662dc31.jpg",
+      "SourceId": "BlazorPeliculas.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\",
+      "BasePath": "_content/BlazorPeliculas.Server",
+      "RelativePath": "peliculas/1fd3505a-8098-481e-ab20-6fab9662dc31.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\1fd3505a-8098-481e-ab20-6fab9662dc31.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\personas\\823447ab-530a-47d4-bab7-d424cf918675jpg",
+      "SourceId": "BlazorPeliculas.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\",
+      "BasePath": "_content/BlazorPeliculas.Server",
+      "RelativePath": "personas/823447ab-530a-47d4-bab7-d424cf918675jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\personas\\823447ab-530a-47d4-bab7-d424cf918675jpg"
+    },
+    {
+      "Identity": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\personas\\f3668d39-9148-4a24-9214-e7b27d49b88d.jpg",
+      "SourceId": "BlazorPeliculas.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\",
+      "BasePath": "_content/BlazorPeliculas.Server",
+      "RelativePath": "personas/f3668d39-9148-4a24-9214-e7b27d49b88d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\personas\\f3668d39-9148-4a24-9214-e7b27d49b88d.jpg"
     }
   ]
 }

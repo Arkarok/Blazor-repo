@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\1fd3505a-8098-481e-ab20-6fab9662dc31.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\1fd3505a-8098-481e-ab20-6fab9662dc31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\personas\\823447ab-530a-47d4-bab7-d424cf918675jpg",
+      "PackagePath": "staticwebassets\\personas"
+    },
+    {
+      "Id": "C:\\Users\\compumax\\Documents\\GitHub\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\personas\\f3668d39-9148-4a24-9214-e7b27d49b88d.jpg",
+      "PackagePath": "staticwebassets\\personas\\f3668d39-9148-4a24-9214-e7b27d49b88d.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorPeliculas.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorPeliculas.Server.props",
+      "PackagePath": "build\\BlazorPeliculas.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorPeliculas.Server.props",
+      "PackagePath": "buildMultiTargeting\\BlazorPeliculas.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorPeliculas.Server.props",
+      "PackagePath": "buildTransitive\\BlazorPeliculas.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
