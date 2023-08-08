@@ -4,7 +4,8 @@
 {
     @if (Cargando is null)
     {
-        <img alt="Cargando" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif?20151024034921" />
+                <img alt="cargando"
+     src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif?20151024034921" />
     }
     else
     {
@@ -13,24 +14,23 @@
 }
 else if (Listado.Count == 0)
 {
-    @if (NoRegistros is null)
+    @if (NoHayRegistros is null)
     {
-        <p>No hay Peliculas para mostrar.</p>
+                <p>No hay películas para mostrar.</p>
     }
     else
     {
-        @NoRegistros
+        @NoHayRegistros
     }
 }
 else
 {
-    if(HayRegistros is not null)
+    if (HayRegistros is not null)
     {
         @foreach (var elemento in Listado)
         {
             @HayRegistros(elemento)
         }
-
     }
     else
     {
@@ -44,7 +44,7 @@ else
     public RenderFragment Cargando { get; set; } = null!;
 
     [Parameter]
-    public RenderFragment NoRegistros { get; set; } = null!;
+    public RenderFragment NoHayRegistros { get; set; } = null!;
 
     [Parameter]
     public RenderFragment<Titem> HayRegistros { get; set; } = null!;

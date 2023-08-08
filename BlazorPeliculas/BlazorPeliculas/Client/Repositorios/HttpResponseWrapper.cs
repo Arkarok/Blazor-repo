@@ -4,36 +4,36 @@ namespace BlazorPeliculas.Client.Repositorios
 {
     public class HttpResponseWrapper<T>
     {
-        public HttpResponseWrapper(T? response, bool error, HttpResponseMessage responseMessage)
+        public HttpResponseWrapper(T? response, bool error, HttpResponseMessage httpResponseMessage)
         {
-            this.error = error;
-            this.response = response;
-            this.responseMessage = responseMessage;
+            Response = response;
+            Error = error;
+            HttpResponseMessage = httpResponseMessage;
         }
 
-        public bool error { get; set; }
-        public T? response { get; set; }
-        public HttpResponseMessage responseMessage { get; set; }
+        public bool Error { get; set; }
+        public T? Response { get; set; }
+        public HttpResponseMessage HttpResponseMessage { get; set; }
 
         public async Task<string?> ObtenerMensajeError()
         {
-            if(!error)
+            if (!Error)
             {
                 return null;
             }
 
-            var codigoEstatus = responseMessage.StatusCode;
+            var codigoEstatus = HttpResponseMessage.StatusCode;
 
-            if(codigoEstatus == HttpStatusCode.NotFound)
+            if (codigoEstatus == HttpStatusCode.NotFound)
             {
                 return "Recurso no encontrado";
-            }else if (codigoEstatus == HttpStatusCode.BadRequest)
+            } else if (codigoEstatus == HttpStatusCode.BadRequest)
             {
-                return await responseMessage.Content.ReadAsStringAsync();
-            }else if (codigoEstatus == HttpStatusCode.Unauthorized)
+                return await HttpResponseMessage.Content.ReadAsStringAsync();
+            } else if (codigoEstatus == HttpStatusCode.Unauthorized)
             {
                 return "Tienes que loguearte para hacer esto";
-            }else if (codigoEstatus == HttpStatusCode.Forbidden)
+            } else if (codigoEstatus == HttpStatusCode.Forbidden)
             {
                 return "No tienes permisos para hacer esto";
             }

@@ -1,25 +1,25 @@
 ﻿<div>
     <label>@Label</label>
     <div>
-        <InputFile OnChange="OnChange" accept=".jpg,.jpeg,.png"/>
+        <InputFile OnChange="OnChange" accept=".jpg,.jpeg,.png" />
     </div>
 </div>
 
 <div>
-    @if(imagenBase64 is not null)
+    @if (imagenBase64 is not null)
     {
         <div>
             <div style="margin: 10px">
-                <img src="data:image/jpeg;base64, @imagenBase64" style="width:400px"/>
+                <img src="data:image/jpeg;base64, @imagenBase64" style="width:400px" />
             </div>
         </div>
     }
 
-    @if (imagenURL is not null)
+    @if (ImagenURL is not null)
     {
         <div>
             <div style="margin: 10px">
-                <img src="@imagenURL" style="width:400px" />
+                <img src="@ImagenURL" style="width:400px" />
             </div>
         </div>
     }
@@ -27,7 +27,7 @@
 
 @code {
     [Parameter] public string Label { get; set; } = "Imagen";
-    [Parameter] public string? imagenURL { get; set; }
+    [Parameter] public string? ImagenURL { get; set; }
     [Parameter] public EventCallback<string> ImagenSeleccionada { get; set; }
     private string? imagenBase64;
 
@@ -40,7 +40,7 @@
             var arrBytes = new byte[imagen.Size];
             await imagen.OpenReadStream().ReadAsync(arrBytes);
             imagenBase64 = Convert.ToBase64String(arrBytes);
-            imagenURL = null;
+            ImagenURL = null;
             await ImagenSeleccionada.InvokeAsync(imagenBase64);
             StateHasChanged();
         }

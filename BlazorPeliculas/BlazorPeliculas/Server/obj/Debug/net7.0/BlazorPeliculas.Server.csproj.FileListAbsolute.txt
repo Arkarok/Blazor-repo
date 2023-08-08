@@ -1,259 +1,294 @@
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.staticwebassets.runtime.json
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.json
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.staticwebassets.runtime.json
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.exe
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.deps.json
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.runtimeconfig.json
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.pdb
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.pdb
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.AssemblyReference.cache
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfoInputs.cache
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfo.cs
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CoreCompileInputs.cache
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cache
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cs
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazorPeliculas.Server.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorPeliculas.Server.props
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorPeliculas.Server.props
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorPeliculas.Server.props
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\scopedcss\bundle\BlazorPeliculas.Server.styles.css
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CopyComplete
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\refint\BlazorPeliculas.Server.dll
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.pdb
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.genruntimeconfig.cache
-C:\Users\henry\source\repos\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\ref\BlazorPeliculas.Server.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.json
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.staticwebassets.runtime.json
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.staticwebassets.runtime.json
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.exe
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.deps.json
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.runtimeconfig.json
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.pdb
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.pdb
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.AssemblyReference.cache
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfoInputs.cache
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfo.cs
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CoreCompileInputs.cache
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cache
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cs
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazorPeliculas.Server.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorPeliculas.Server.props
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorPeliculas.Server.props
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorPeliculas.Server.props
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\scopedcss\bundle\BlazorPeliculas.Server.styles.css
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CopyComplete
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\refint\BlazorPeliculas.Server.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.pdb
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.genruntimeconfig.cache
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\ref\BlazorPeliculas.Server.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\MathNet.Numerics.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Markdig.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Blazored.Typeahead.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.json
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.staticwebassets.runtime.json
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.staticwebassets.runtime.json
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.exe
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.deps.json
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.runtimeconfig.json
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.pdb
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Blazored.Typeahead.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Humanizer.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Markdig.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\MathNet.Numerics.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.pdb
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.AssemblyReference.cache
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfoInputs.cache
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfo.cs
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CoreCompileInputs.cache
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cache
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cs
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazorPeliculas.Server.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorPeliculas.Server.props
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorPeliculas.Server.props
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorPeliculas.Server.props
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\scopedcss\bundle\BlazorPeliculas.Server.styles.css
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CopyComplete
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\refint\BlazorPeliculas.Server.dll
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.pdb
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.genruntimeconfig.cache
-C:\Users\compumax\Documents\GitHub\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\ref\BlazorPeliculas.Server.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Humanizer.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\Blazor-repo\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.staticwebassets.runtime.json
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.staticwebassets.runtime.json
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.exe
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.deps.json
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.runtimeconfig.json
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.pdb
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Storage.Common.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Blazored.Typeahead.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Markdig.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.pdb
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.AssemblyReference.cache
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfoInputs.cache
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfo.cs
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CoreCompileInputs.cache
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cache
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cs
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazorPeliculas.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorPeliculas.Server.props
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorPeliculas.Server.props
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorPeliculas.Server.props
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\scopedcss\bundle\BlazorPeliculas.Server.styles.css
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CopyComplete
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\refint\BlazorPeliculas.Server.dll
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.pdb
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.genruntimeconfig.cache
+C:\Users\johan\Music\BlazorPeliculas-master\BlazorPeliculas-master\ASP.NET Core 7\Modulo 6 - HTTP y Entity Framework Core\Fin\BlazorPeliculas\Server\obj\Debug\net7.0\ref\BlazorPeliculas.Server.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.staticwebassets.runtime.json
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.staticwebassets.runtime.json
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.exe
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.deps.json
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.runtimeconfig.json
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.pdb
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Storage.Common.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Blazored.Typeahead.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Markdig.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.pdb
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cache
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cs
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazorPeliculas.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorPeliculas.Server.props
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorPeliculas.Server.props
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorPeliculas.Server.props
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\scopedcss\bundle\BlazorPeliculas.Server.styles.css
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CopyComplete
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\refint\BlazorPeliculas.Server.dll
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.pdb
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.genruntimeconfig.cache
+C:\Users\johan\OneDrive\Documentos\GitHub\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\ref\BlazorPeliculas.Server.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.staticwebassets.runtime.json
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.staticwebassets.runtime.json
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.exe
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.deps.json
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.runtimeconfig.json
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Server.pdb
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Azure.Storage.Common.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Blazored.Typeahead.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\CurrieTechnologies.Razor.SweetAlert2.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Markdig.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Client.pdb
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\bin\Debug\net7.0\BlazorPeliculas.Shared.pdb
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.AssemblyReference.cache
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfoInputs.cache
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.AssemblyInfo.cs
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CoreCompileInputs.cache
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cache
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.RazorAssemblyInfo.cs
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.BlazorPeliculas.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorPeliculas.Server.props
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorPeliculas.Server.props
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorPeliculas.Server.props
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\scopedcss\bundle\BlazorPeliculas.Server.styles.css
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.csproj.CopyComplete
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\refint\BlazorPeliculas.Server.dll
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.pdb
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\BlazorPeliculas.Server.genruntimeconfig.cache
+C:\Users\henry\OneDrive\Documentos\gitRepos\BlazorRepo\CursoEmpresa\BlazorPeliculas\BlazorPeliculas\Server\obj\Debug\net7.0\ref\BlazorPeliculas.Server.dll

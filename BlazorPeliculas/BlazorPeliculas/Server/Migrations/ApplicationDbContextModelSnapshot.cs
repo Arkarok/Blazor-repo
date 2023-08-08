@@ -17,7 +17,7 @@ namespace BlazorPeliculas.Server.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.9")
+                .HasAnnotation("ProductVersion", "7.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -91,7 +91,7 @@ namespace BlazorPeliculas.Server.Migrations
                     b.Property<bool>("EnCartelera")
                         .HasColumnType("bit");
 
-                    b.Property<DateTime>("Lanzamiento")
+                    b.Property<DateTime?>("Lanzamiento")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Poster")

@@ -1,27 +1,28 @@
 ﻿@page "/"
-@inject Irepositorio repositorio
+@page "/index"
+@inject IRepositorio repositorio
 
-<PageTitle>Blazor Peliculas</PageTitle>
+<PageTitle>Blazor Películas</PageTitle>
 
 <div>
-    <h1>En Cartelera</h1>
-    <ListadoPeliculas Peliculas="Encartelera" />
+    <h3>En Cartelera</h3>
+    <ListadoPeliculas Peliculas="EnCartelera" />
 </div>
 
 <div>
-    <h1>Proximos Estrenos</h1>
+    <h3>Próximos Estrenos</h3>
     <ListadoPeliculas Peliculas="FuturosEstrenos" />
 </div>
 
-@code{
+@code {
 
     public List<Pelicula>? FuturosEstrenos { get; set; }
-    public List<Pelicula>? Encartelera { get; set; }
+    public List<Pelicula>? EnCartelera { get; set; }
 
     protected override async Task OnInitializedAsync()
     {
-        var respuestaHttp = await repositorio.Get<HomePageDTO>("api/peliculas");
-        FuturosEstrenos = respuestaHttp.response!.ProximosEstrenos;
-        Encartelera = respuestaHttp.response!.PeliculasEnCartelera;
+        var respuestaHTTP = await repositorio.Get<HomePageDTO>("api/peliculas");
+        FuturosEstrenos = respuestaHTTP.Response!.ProximosEstrenos;
+        EnCartelera = respuestaHTTP.Response!.PeliculasEnCartelera;
     }
 }

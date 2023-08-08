@@ -9,13 +9,16 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllersWithViews()
-    .AddJsonOptions(op => op.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
+    .AddJsonOptions(opciones =>
+    opciones.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 builder.Services.AddRazorPages();
 
-builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("name=DefaultConnection"));
+builder.Services.AddDbContext<ApplicationDbContext>(opciones => 
+    opciones.UseSqlServer("name=DefaultConnection"));
 
 builder.Services.AddTransient<IAlmacenadorArchivos, AlmacenadorArchivosLocal>();
 builder.Services.AddHttpContextAccessor();
+builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
 

@@ -2,19 +2,20 @@
 {
     public class AlmacenadorArchivosLocal : IAlmacenadorArchivos
     {
-        private readonly IWebHostEnvironment _environment;
-        private readonly IHttpContextAccessor _contextAccessor;
+        private readonly IWebHostEnvironment env;
+        private readonly IHttpContextAccessor httpContextAccessor;
 
-        public AlmacenadorArchivosLocal(IWebHostEnvironment environment, IHttpContextAccessor contextAccessor)
+        public AlmacenadorArchivosLocal(IWebHostEnvironment env, 
+            IHttpContextAccessor httpContextAccessor)
         {
-            _environment = environment;
-            _contextAccessor = contextAccessor;
+            this.env = env;
+            this.httpContextAccessor = httpContextAccessor;
         }
 
         public Task EliminarArchivo(string ruta, string nombreContenedor)
         {
             var nombreArchivo = Path.GetFileName(ruta);
-            var directorioArchivo = Path.Combine(_environment.WebRootPath, nombreContenedor, nombreArchivo);
+            var directorioArchivo = Path.Combine(env.WebRootPath, nombreContenedor, nombreArchivo);
 
             if (File.Exists(directorioArchivo))
             {
@@ -24,23 +25,25 @@
             return Task.CompletedTask;
         }
 
-        public async Task<string> GuardarArchivo(byte[] contenido, string extencion, string nombreContenedor)
+        public async Task<string> GuardarArchivo(byte[] contenido, string extension, 
+            string nombreContenedor)
         {
-            var nombreArchivo = $"{Guid.NewGuid()}{extencion}";
-            var folder = Path.Combine(_environment.WebRootPath, nombreContenedor);
+            var nombreArchivo = $"{Guid.NewGuid()}{extension}";
+            var folder = Path.Combine(env.WebRootPath, nombreContenedor);
 
-            if(!Directory.Exists(folder)) 
+            if (!Directory.Exists(folder))
             {
                 Directory.CreateDirectory(folder);
             }
 
-            string rutaGuardato = Path.Combine(folder, nombreArchivo);
-            await File.WriteAllBytesAsync(rutaGuardato, contenido);
+            string rutaGuardado = Path.Combine(folder, nombreArchivo);
+            await File.WriteAllBytesAsync(rutaGuardado, contenido);
 
-            var urlActual = $"{_contextAccessor!.HttpContext!.Request.Scheme}://{_contextAccessor.HttpContext.Request.Host}";
-            var rutaParaDB = Path.Combine(urlActual, nombreContenedor, nombreArchivo).Replace("\\", "/");
+            var urlActual = $"{httpContextAccessor!.HttpContext!.Request.Scheme}://{httpContextAccessor.HttpContext.Request.Host}";
 
-            return rutaParaDB;
+            var rutaParaBD = Path.Combine(urlActual, nombreContenedor, nombreArchivo)
+                                .Replace("\\", "/");
+            return rutaParaBD;
         }
     }
 }

@@ -20,9 +20,12 @@
 @code {
     private string removerTodoTexto = "<<";
 
-    [Parameter] public List<SelectorMultipleModel> NoSeleccionados { get; set; } = new List<SelectorMultipleModel>();
+    [Parameter] public List<SelectorMultipleModel> NoSeleccionados { get; set; } 
+        = new List<SelectorMultipleModel>();
 
-    [Parameter] public List<SelectorMultipleModel> Seleccionados { get; set; } = new List<SelectorMultipleModel>();
+    [Parameter]
+    public List<SelectorMultipleModel> Seleccionados { get; set; }
+       = new List<SelectorMultipleModel>();
 
     private void Seleccionar(SelectorMultipleModel item)
     {

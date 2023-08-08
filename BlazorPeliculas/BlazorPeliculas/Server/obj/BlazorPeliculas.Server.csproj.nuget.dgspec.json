@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj": {}
+    "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj": {
+    "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
         "projectName": "BlazorPeliculas.Client",
-        "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
+        "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\",
+        "outputPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj": {
-                "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj"
+              "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj": {
+                "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj"
               }
             }
           }
@@ -50,11 +50,11 @@
             },
             "CurrieTechnologies.Razor.SweetAlert2": {
               "target": "Package",
-              "version": "[5.5.0, )"
+              "version": "[5.3.0, )"
             },
             "Markdig": {
               "target": "Package",
-              "version": "[0.32.0, )"
+              "version": "[0.30.4, )"
             },
             "MathNet.Numerics": {
               "target": "Package",
@@ -62,12 +62,12 @@
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -101,14 +101,14 @@
         }
       }
     },
-    "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj": {
+    "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
         "projectName": "BlazorPeliculas.Server",
-        "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
+        "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Server\\BlazorPeliculas.Server.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\obj\\",
+        "outputPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,11 +126,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj": {
-                "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj"
+              "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj": {
+                "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj"
               },
-              "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj": {
-                "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj"
+              "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj": {
+                "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj"
               }
             }
           }
@@ -145,6 +145,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.17.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[7.0.9, )"
@@ -183,14 +191,14 @@
         }
       }
     },
-    "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj": {
+    "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj",
         "projectName": "BlazorPeliculas.Shared",
-        "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj",
+        "projectPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",

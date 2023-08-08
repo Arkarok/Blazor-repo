@@ -5,12 +5,13 @@
 <EditForm EditContext="editContext" OnValidSubmit="OnValidSubmit">
     <DataAnnotationsValidator />
     <div class="mb-3">
-        <label>Nombre</label>
+        <label>Nombre:</label>
         <div>
             <InputText class="form-control" @bind-Value="@Genero.Nombre" />
             <ValidationMessage For="@(() => Genero.Nombre)" />
         </div>
     </div>
+
     <button class="btn btn-success" type="submit">Guardar Cambios</button>
 </EditForm>
 
@@ -48,14 +49,13 @@
 
         var resultado = await swal.FireAsync(new SweetAlertOptions
             {
-                Title = "Confirmacion",
-                Text = "¿Deseas abandonar la pagina y perder los cambios?",
+                Title = "Confirmación",
+                Text = "¿Deseas abandonar la página y perder los cambios?",
                 Icon = SweetAlertIcon.Warning,
                 ShowCancelButton = true
-
             });
 
-            var confirmado = !string.IsNullOrEmpty(resultado.Value);
+        var confirmado = !string.IsNullOrEmpty(resultado.Value);
 
         if (confirmado)
         {

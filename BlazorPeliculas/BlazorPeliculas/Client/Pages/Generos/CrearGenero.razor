@@ -1,9 +1,9 @@
 ﻿@page "/generos/crear"
 @inject NavigationManager navigationManager
-@inject Irepositorio repositorio
+@inject IRepositorio repositorio
 @inject SweetAlertService swal
 
-<h3>Crear Genero</h3>
+<h3>Crear Género</h3>
 
 <FormularioGenero @ref="formularioGenero" Genero="Genero" OnValidSubmit="Crear" />
 
@@ -15,7 +15,7 @@
     {
         var httpResponse = await repositorio.Post("api/generos", Genero);
 
-        if (httpResponse.error)
+        if (httpResponse.Error)
         {
             var mensajeError = await httpResponse.ObtenerMensajeError();
             await swal.FireAsync("Error", mensajeError, SweetAlertIcon.Error);

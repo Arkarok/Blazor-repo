@@ -1,18 +1,21 @@
 ﻿@page "/peliculas/crear"
 @inject NavigationManager navigationManager
-@inject Irepositorio repositorio
+@inject IRepositorio repositorio
 @inject SweetAlertService swal
 
-<h3>Crear Pelicula</h3>
+<h3>Crear Película</h3>
 
-@if(MostrarFormulario is false)
+@if (MostrarFormulario)
 {
-    <p>Cargando ...</p>
+    <FormularioPeliculas Pelicula="Pelicula" OnValidSubmit="Crear"
+                     GenerosNoSeleccionados="GenerosNoSeleccionados"></FormularioPeliculas>
 }
 else
 {
-    <FormularioPeliculas Pelicula="Pelicula" OnValidSubmit="crear" GenerosNoSeleccionados="GenerosNoSeleccionados"></FormularioPeliculas>
+    <p>Cargando...</p>
 }
+
+
 
 @code {
     private Pelicula Pelicula = new Pelicula();
@@ -21,24 +24,26 @@ else
 
     protected async override Task OnInitializedAsync()
     {
-        var respuestaHttp = await repositorio.Get<List<Genero>>("api/generos");
-        GenerosNoSeleccionados = respuestaHttp.response!;
+        var respuestaHTTP = await repositorio.Get<List<Genero>>("api/generos");
+        GenerosNoSeleccionados = respuestaHTTP.Response!;
         MostrarFormulario = true;
     }
 
-    async Task crear()
+    async Task Crear()
     {
         var httpResponse = await repositorio.Post<Pelicula, int>("api/peliculas", Pelicula);
 
-        if (httpResponse.error)
+        if (httpResponse.Error)
         {
             var mensajeError = await httpResponse.ObtenerMensajeError();
             await swal.FireAsync("Error", mensajeError, SweetAlertIcon.Error);
         }
         else
         {
-            var peliculaId = httpResponse.response;
-            navigationManager.NavigateTo($"/pelicula/{peliculaId}/{Pelicula.Titulo.Replace(" ","-")}");
+            var peliculaId = httpResponse.Response;
+            navigationManager
+                .NavigateTo($"/pelicula/{peliculaId}/{Pelicula.Titulo.Replace(" ", "-")}");
         }
     }
+
 }

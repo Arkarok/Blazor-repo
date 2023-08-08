@@ -4,27 +4,27 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BlazorPeliculas.Server.Controllers
 {
-    [ApiController]
     [Route("api/generos")]
-    public class GenerosController : ControllerBase
+    [ApiController]
+    public class GenerosController: ControllerBase
     {
-        private readonly ApplicationDbContext _context;
+        private readonly ApplicationDbContext context;
+
         public GenerosController(ApplicationDbContext context)
         {
-            this._context = context;
+            this.context = context;
         }
 
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Genero>>> Get()
         {
-            return await _context.Generos.ToListAsync();
+            return await context.Generos.ToListAsync();
         }
-
 
         [HttpGet("{id:int}")]
         public async Task<ActionResult<Genero>> Get(int id)
         {
-            var genero = await _context.Generos.FirstOrDefaultAsync(g => g.Id == id);
+            var genero = await context.Generos.FirstOrDefaultAsync(genero => genero.Id == id);
 
             if (genero is null)
             {
@@ -34,20 +34,35 @@ namespace BlazorPeliculas.Server.Controllers
             return genero;
         }
 
-        [HttpPut]
-        public async Task<ActionResult> Put(Genero genero)
-        {
-            _context.Update(genero);
-            await _context.SaveChangesAsync();
-            return NoContent();
-        }
-
         [HttpPost]
         public async Task<ActionResult<int>> Post(Genero genero)
         {
-            _context.Add(genero);
-            await _context.SaveChangesAsync();
+            context.Add(genero);
+            await context.SaveChangesAsync();
             return genero.Id;
+        }
+
+        [HttpPut]
+        public async Task<ActionResult> Put(Genero genero)
+        {
+            context.Update(genero);
+            await context.SaveChangesAsync();
+            return NoContent();
+        }
+
+        [HttpDelete("{id:int}")]
+        public async Task<ActionResult> Delete(int id)
+        {
+            var filasAfectadas = await context.Generos
+                                        .Where(x => x.Id == id)
+                                        .ExecuteDeleteAsync();
+
+            if (filasAfectadas == 0)
+            {
+                return NotFound();
+            }
+
+            return NoContent();
         }
     }
 }

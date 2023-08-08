@@ -1,20 +1,24 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\133abfa9-1efb-45fc-9957-1a8c6b26b8ba.jpg",
-      "PackagePath": "staticwebassets\\peliculas\\133abfa9-1efb-45fc-9957-1a8c6b26b8ba.jpg"
+      "Id": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\3e9ac9d2-4b42-4e59-8bc7-b0ca95117aca.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\3e9ac9d2-4b42-4e59-8bc7-b0ca95117aca.jpg"
     },
     {
-      "Id": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\1fd3505a-8098-481e-ab20-6fab9662dc31.jpg",
-      "PackagePath": "staticwebassets\\peliculas\\1fd3505a-8098-481e-ab20-6fab9662dc31.jpg"
+      "Id": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\4df057a1-a431-42fa-a89d-9488d5ae8295.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\4df057a1-a431-42fa-a89d-9488d5ae8295.jpg"
     },
     {
-      "Id": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\personas\\823447ab-530a-47d4-bab7-d424cf918675jpg",
-      "PackagePath": "staticwebassets\\personas"
+      "Id": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\peliculas\\c2fed126-5c09-4cc3-ad5a-65433d75a304.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\c2fed126-5c09-4cc3-ad5a-65433d75a304.jpg"
     },
     {
-      "Id": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\personas\\f3668d39-9148-4a24-9214-e7b27d49b88d.jpg",
-      "PackagePath": "staticwebassets\\personas\\f3668d39-9148-4a24-9214-e7b27d49b88d.jpg"
+      "Id": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\personas\\562cf091-aeef-418d-955c-d6e1a9260c31.jpg",
+      "PackagePath": "staticwebassets\\personas\\562cf091-aeef-418d-955c-d6e1a9260c31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Server\\wwwroot\\personas\\95317512-650e-4ed3-84df-4139d1f2ab2d.jpg",
+      "PackagePath": "staticwebassets\\personas\\95317512-650e-4ed3-84df-4139d1f2ab2d.jpg"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorPeliculas.Server.Microsoft.AspNetCore.StaticWebAssets.props",

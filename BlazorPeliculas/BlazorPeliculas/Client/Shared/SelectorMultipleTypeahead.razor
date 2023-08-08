@@ -1,7 +1,9 @@
 ﻿@using Blazored.Typeahead
 @typeparam T
 
-<BlazoredTypeahead TValue="T" TItem="T" SearchMethod="SearchMethod" Value="sampleItem" ValueChanged="ElementoSeleccionado" ValueExpression="@(() => sampleItem)">
+<BlazoredTypeahead TValue="T" TItem="T" SearchMethod="SearchMethod"
+                   Value="sampleItem" ValueChanged="ElementoSeleccionado"
+                   ValueExpression="@(() => sampleItem)">
     <ResultTemplate>
         @MyResultTemplate(context)
     </ResultTemplate>
@@ -14,18 +16,22 @@
 <ul class="list-group">
     @foreach (var item in ElementosSeleccionados)
     {
-        <li draggable="true" 
-            @ondragstart="@(() => HandleDragStart(item))"
-            @ondragover="@(() => HandleDragOver(item))"
-            class="list-group-item list-group-item-action">
-                @MyListTemplate(item)
-                <span @onclick="@(() => ElementosSeleccionados.Remove(item))" class="badge bg-primary rounded-pill" style="cursor:pointer">X</span>
+        <li draggable="true"
+        @ondragstart="@(() => HandleDragStart(item))"
+        @ondragover="@(() => HandleDragOver(item))"
+        class="list-group-item list-group-item-action">
+            @MyListTemplate(item)
+            <span 
+                @onclick="@(() => ElementosSeleccionados.Remove(item))"
+                class="badge bg-primary rounded-pill" style="cursor:pointer">
+                X
+            </span>
         </li>
     }
 </ul>
 
 @code {
-    [Parameter, EditorRequired] public Func<string, Task<IEnumerable<T>>> SearchMethod {get; set;} = null!;
+    [Parameter, EditorRequired] public Func<string, Task<IEnumerable<T>>> SearchMethod { get; set; } = null!;
     [Parameter] public List<T> ElementosSeleccionados { get; set; } = new List<T>();
     [Parameter, EditorRequired] public RenderFragment<T> MyResultTemplate { get; set; } = null!;
     [Parameter, EditorRequired] public RenderFragment<T> MyListTemplate { get; set; } = null!;
@@ -39,7 +45,7 @@
 
     private void HandleDragOver(T item)
     {
-        if(itemArrastrado is null)
+        if (itemArrastrado is null)
         {
             return;
         }
@@ -55,7 +61,7 @@
 
     private void ElementoSeleccionado(T item)
     {
-        if(!ElementosSeleccionados.Any(x => x.Equals(item)))
+        if (!ElementosSeleccionados.Any(x => x.Equals(item)))
         {
             ElementosSeleccionados.Add(item);
         }

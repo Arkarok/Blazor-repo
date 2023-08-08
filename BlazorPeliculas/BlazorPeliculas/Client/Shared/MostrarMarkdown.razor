@@ -2,7 +2,7 @@
 
 @if (string.IsNullOrEmpty(ContenidoHTML))
 {
-    if(PlantillaCarga is not null)
+    if (PlantillaCarga is not null)
     {
         @PlantillaCarga
     }
@@ -19,10 +19,9 @@ else
 
     protected override void OnParametersSet()
     {
-        if(ContenidoMarkdown is not null)
+        if (ContenidoMarkdown is not null)
         {
             ContenidoHTML = Markdown.ToHtml(ContenidoMarkdown);
         }
     }
-
 }

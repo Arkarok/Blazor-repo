@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9NqIDwWZNySG95VgLk28vFnag5g6ZDLcup3y7SF7+6hbjvIvwt8gebw7s36Ut8q6RXcbDDa/kwtrkOGbePU1YQ==",
+  "dgSpecHash": "UkOPqXR0meKxJtQpXreSfOhEuNhtwIn3zJUv2Pcq2fzRo3bPYFaXHb2x4zWNqngn6pH405/vXVqvQ9bW/buHHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\Blazor-repo\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj",
+  "projectFilePath": "C:\\Users\\henry\\OneDrive\\Documentos\\gitRepos\\BlazorRepo\\CursoEmpresa\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
